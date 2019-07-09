@@ -6,7 +6,7 @@ The overall electronics setup except for the power, which was provided by a cons
 
 ### Read the related paper [here](https://link.springer.com/chapter/10.1007/978-3-030-00353-1_41). 
 
-### See YouTube video:
+### Watch YouTube video:
 
 [Video of development and operation](https://www.youtube.com/watch?v=WEFnlVYAbBk)
 
