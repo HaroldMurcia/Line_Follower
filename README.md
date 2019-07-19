@@ -6,7 +6,8 @@ The overall electronics setup except for the power, which was provided by a cons
 
  * Read the related publication [here.](https://link.springer.com/chapter/10.1007/978-3-030-00353-1_41) 
 
- * Watch YouTube video [here.](https://www.youtube.com/watch?v=WEFnlVYAbBk)
+ * Watch YouTube video 1 [here.](https://www.youtube.com/watch?v=WEFnlVYAbBk)
+ * Watch YouTube video 2 [here.](https://www.youtube.com/watch?v=wj3NYBaL51g&t=22s)
 
 
 
